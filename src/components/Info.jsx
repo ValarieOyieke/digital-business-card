@@ -6,7 +6,7 @@ const Info = () => {
   const newTab = url => window.open(url)
   return (
         <div className="info">
-            <img src="val.jpg" className="img"/>
+            <img src="./src/val.jpg" className="img"/>
             <h1 className="title">Valarie Oyieke</h1>
             <h3 className="subtitle">Front-end Developer</h3>
             <div className="btns">
