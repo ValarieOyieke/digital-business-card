@@ -60,30 +60,37 @@ body{
 
 
 /* TYPOGRAPHY */
-p{
-  line-height: 1.5;
-}
-
 
 h1,h2{
   color:  #F5F5F5;
-  font-size: 1.3rem;
   line-height: 1.5;
+  font-weight: 700;
   margin-top: 0.7em;
 }
 
 
-.title{
-  font-size: 1.56rem;
- 
+h2{
+  font-size: 1.2rem;
 }
 
+
+p{
+  line-height: 1.5;
+  color: #DCDCDC;
+}
+
+
+.title{
+  font-size: 1.57rem;
+ 
+}
 
 .subtitle{
   font-size: 0.8rem;
   color:#F3BF99;
   font-weight: 400;
 }
+
 
 
 /* BUTTONS */
