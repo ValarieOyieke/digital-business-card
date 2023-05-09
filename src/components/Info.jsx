@@ -1,12 +1,13 @@
 import { FaLinkedin } from 'react-icons/fa';
 import { MdEmail } from "react-icons/md";
+import img from "../images/val.jpg"
 
 
 const Info = () => {
   const newTab = url => window.open(url)
   return (
         <div className="info">
-            <img src="./images/val.jpg" className="img"/>
+            <img src={img} className="img"/>
             <h1 className="title">Valarie Oyieke</h1>
             <h3 className="subtitle">Front-end Developer</h3>
             <div className="btns">
