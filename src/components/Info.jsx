@@ -3,7 +3,6 @@ import { MdEmail } from "react-icons/md";
 import img from "../images/val.jpg"
 
 
-
 const Info = () => {
   const newTab = url => window.open(url)
   return (
