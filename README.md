@@ -21,7 +21,7 @@ This is a solution to the [Digital Business Card React Project on Scrimba ](http
 
 
 ### Links
-<!-- - Solution Scrim: [Scrimba](https://scrimba.com/scrim/cErRmwsK) -->
+- Solution Scrim: [Scrimba](https://scrimba.com/scrim/cRKyLMCM)
 - Live Site URL: [Netlify](https://graceful-kangaroo-007a6a.netlify.app/)
 
 ## My process
